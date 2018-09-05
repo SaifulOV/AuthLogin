@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343579692127",
+    "firebase_url": "https://authlogin-d6448.firebaseio.com",
+    "project_id": "authlogin-d6448",
+    "storage_bucket": "authlogin-d6448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343579692127:android:7add22275907a2d0",
+        "android_client_info": {
+          "package_name": "com.tong.siful.authlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343579692127-7slq4n75jc68kad6e56ufjgponmlsl2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tong.siful.authlogin",
+            "certificate_hash": "98519afb2cef463979c76344c52238b0cd058f17"
+          }
+        },
+        {
+          "client_id": "343579692127-h7pg7jd2lj5af8vdkjkkhuqtghphkcgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_P82axUv9hsITKL0zBq1BBIYFRyWClU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343579692127-h7pg7jd2lj5af8vdkjkkhuqtghphkcgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
